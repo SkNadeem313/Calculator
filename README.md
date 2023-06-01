@@ -1,3 +1,3 @@
 # Calculator
-click here
+click here:
 https://sknadeem313.github.io/Calculator/
